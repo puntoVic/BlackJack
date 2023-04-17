@@ -27,6 +27,8 @@ namespace BlackJack.Entities
             }
         }
 
+        
+
         internal List<Card> Cards { get => cards; set => cards = value; }
     }
 }

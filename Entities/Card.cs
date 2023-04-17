@@ -22,5 +22,7 @@ namespace BlackJack.Entities
         public string Suit { get => suit; set => suit = value; }
         public string Name { get => name; set => name = value; }
         public int Value { get => value; set => this.value = value; }
+
+
     }
 }
